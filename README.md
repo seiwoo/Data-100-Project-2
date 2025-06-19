@@ -1,5 +1,5 @@
 # Data 100 Project 2 (UC Berkeley School Project)
-**Coding Language**: Python
+**Programming Language**: Python
 ## Project B1 
 - Developed a binary email classifier to distinguish spam (junk, commercial, or bulk) from ham (legitimate) messages using a linear regression model. Successfully trained and optimized the model to achieve an accuracy of 88%, surpassing the target benchmark of 85%.
 
